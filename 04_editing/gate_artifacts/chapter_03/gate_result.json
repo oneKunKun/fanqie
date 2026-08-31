@@ -1,0 +1,135 @@
+{
+  "checked_at": "2026-08-25 21:34:06",
+  "project_root": "/Users/panyoyo/Desktop/fanqie",
+  "chapter_file": "/Users/panyoyo/Desktop/fanqie/03_manuscript/03_第三章_零七.md",
+  "chapter_id": "chapter_03",
+  "passed": true,
+  "checks": [
+    {
+      "name": "chapter_storage_policy",
+      "path": "/Users/panyoyo/Desktop/fanqie/03_manuscript/03_第三章_零七.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "knowledge_base_isolation",
+      "path": "/Users/panyoyo/Desktop/fanqie/02_knowledge_base",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "memory_update",
+      "path": "/Users/panyoyo/Desktop/fanqie/04_editing/gate_artifacts/chapter_03/memory_update.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "consistency_report",
+      "path": "/Users/panyoyo/Desktop/fanqie/04_editing/gate_artifacts/chapter_03/consistency_report.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "style_calibration",
+      "path": "/Users/panyoyo/Desktop/fanqie/04_editing/gate_artifacts/chapter_03/style_calibration.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "copyedit_report",
+      "path": "/Users/panyoyo/Desktop/fanqie/04_editing/gate_artifacts/chapter_03/copyedit_report.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "publish_ready",
+      "path": "/Users/panyoyo/Desktop/fanqie/04_editing/gate_artifacts/chapter_03/publish_ready.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "quality_report",
+      "path": "/Users/panyoyo/Desktop/fanqie/04_editing/gate_artifacts/chapter_03/quality_report.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "publish_ready_keyword",
+      "path": "/Users/panyoyo/Desktop/fanqie/04_editing/gate_artifacts/chapter_03/publish_ready.md",
+      "ok": true,
+      "message": "命中发布关键字: 可发布"
+    },
+    {
+      "name": "quality_baseline",
+      "path": "/Users/panyoyo/Desktop/fanqie/04_editing/gate_artifacts/chapter_03/quality_report.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "anti_resolution_guard",
+      "path": "/Users/panyoyo/Desktop/fanqie/03_manuscript/03_第三章_零七.md",
+      "ok": true,
+      "message": "通过",
+      "details": {
+        "tail_suspense": {
+          "has_suspense": false,
+          "hits": [],
+          "tail_length": 200
+        },
+        "resolution_signals": {
+          "signal_count": 0,
+          "signals": [],
+          "risk": "low"
+        },
+        "forbidden_reveals": {
+          "revealed_count": 0,
+          "revealed": []
+        },
+        "quota_abc": {
+          "quota_a": {
+            "label": "A（主线矛盾推进）",
+            "triggered": false,
+            "hits": []
+          },
+          "quota_b": {
+            "label": "B（主要关系升级）",
+            "triggered": false,
+            "hits": []
+          },
+          "quota_c": {
+            "label": "C（核心秘密揭露）",
+            "triggered": false,
+            "hits": []
+          },
+          "triggered_count": 0,
+          "triggered_quotas": []
+        }
+      }
+    },
+    {
+      "name": "pacing_tracker",
+      "path": "/Users/panyoyo/Desktop/fanqie/00_memory/pacing_history.json",
+      "ok": true,
+      "message": "通过",
+      "details": {
+        "chapter": 3,
+        "volume": 1,
+        "stats": {
+          "slow": 1,
+          "medium": 1,
+          "fast": 1
+        }
+      }
+    },
+    {
+      "name": "pacing_review_semantic",
+      "path": "/Users/panyoyo/Desktop/fanqie/04_editing/gate_artifacts/chapter_03/pacing_review.md",
+      "ok": true,
+      "message": "通过"
+    }
+  ],
+  "failures": [],
+  "warnings": [
+    "anti_resolution_guard: 章末未检测到悬念元素，建议添加钩子"
+  ]
+}

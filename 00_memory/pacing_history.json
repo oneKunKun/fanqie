@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "updated_at": "2026-08-27 10:00:00",
+  "history": [
+    {
+      "chapter": 1,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "world_painting"
+      ]
+    },
+    {
+      "chapter": 2,
+      "tier": "fast",
+      "volume": 1,
+      "event_types": [
+        "conflict_thrill"
+      ]
+    },
+    {
+      "chapter": 3,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "faction_building"
+      ]
+    },
+    {
+      "chapter": 4,
+      "tier": "fast",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation"
+      ]
+    },
+    {
+      "chapter": 5,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "faction_building"
+      ]
+    },
+    {
+      "chapter": 6,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "bond_deepening"
+      ]
+    },
+    {
+      "chapter": 7,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "faction_building"
+      ]
+    },
+    {
+      "chapter": 8,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation",
+        "world_painting"
+      ]
+    },
+    {
+      "chapter": 9,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation",
+        "world_painting"
+      ]
+    },
+    {
+      "chapter": 10,
+      "tier": "fast",
+      "volume": 1,
+      "event_types": [
+        "mainline_breakthrough"
+      ]
+    },
+    {
+      "chapter": 11,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "bond_deepening"
+      ]
+    },
+    {
+      "chapter": 12,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation"
+      ]
+    },
+    {
+      "chapter": 13,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation",
+        "world_painting"
+      ]
+    },
+    {
+      "chapter": 14,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "bond_deepening",
+        "world_painting"
+      ]
+    },
+    {
+      "chapter": 15,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation",
+        "faction_building"
+      ]
+    },
+    {
+      "chapter": 16,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "world_painting",
+        "bond_deepening"
+      ]
+    },
+    {
+      "chapter": 17,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation",
+        "world_painting"
+      ]
+    },
+    {
+      "chapter": 18,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation",
+        "faction_building"
+      ]
+    },
+    {
+      "chapter": 19,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "bond_deepening",
+        "world_painting"
+      ]
+    },
+    {
+      "chapter": 20,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation",
+        "faction_building"
+      ]
+    },
+    {
+      "chapter": 21,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation",
+        "bond_deepening"
+      ]
+    },
+    {
+      "chapter": 22,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation",
+        "world_painting"
+      ]
+    },
+    {
+      "chapter": 23,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "bond_deepening",
+        "world_painting"
+      ]
+    },
+    {
+      "chapter": 24,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation",
+        "world_painting"
+      ]
+    }
+  ],
+  "volume_stats": {
+    "1": {
+      "slow": 7,
+      "medium": 14,
+      "fast": 3
+    }
+  }
+}
