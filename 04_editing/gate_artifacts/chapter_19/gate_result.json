@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-26 17:02:21",
+  "checked_at": "2026-08-31 19:36:02",
   "project_root": "/Users/panyoyo/Desktop/fanqie",
   "chapter_file": "/Users/panyoyo/Desktop/fanqie/03_manuscript/19_第十九章_临时名字.md",
   "chapter_id": "chapter_19",
@@ -72,10 +72,8 @@
       "message": "通过",
       "details": {
         "tail_suspense": {
-          "has_suspense": true,
-          "hits": [
-            "却"
-          ],
+          "has_suspense": false,
+          "hits": [],
           "tail_length": 200
         },
         "resolution_signals": {
@@ -131,5 +129,7 @@
     }
   ],
   "failures": [],
-  "warnings": []
+  "warnings": [
+    "anti_resolution_guard: 章末未检测到悬念元素，建议添加钩子"
+  ]
 }
